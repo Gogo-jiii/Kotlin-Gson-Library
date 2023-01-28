@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gson</string>
+    <string name="model_to_json">model to json</string>
+    <string name="json_to_model">json to model</string>
+    <string name="arraylist_to_and_from_json">arraylist to and from json</string>
+    <string name="result">Result:</string>
+</resources>
